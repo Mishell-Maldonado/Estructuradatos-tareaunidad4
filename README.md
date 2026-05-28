@@ -1,32 +1,32 @@
 **Análisis de Complejidad Algorítmica**
 
-Este proyecto en Java evalúa de forma práctica el rendimiento temporal y espacial de distintos algoritmos de búsqueda, ordenamiento y recursividad sobre un gran volumen de datos (1,000,000 de elementos).
+Este proyecto en Java evalúa de forma práctica el rendimiento temporal y espacial de distintos algoritmos de búsqueda, ordenamiento y recursividad sobre un gran volumen de datos (1,000,000 de elementos).                   
 
-**Estructura del Código**
+**Estructura del Código**                   
 
-El sistema está modularizado en las siguientes clases dentro de Visual Studio Code:
+El sistema está modularizado en las siguientes clases dentro de Visual Studio Code:                                                
+         
+Main.java                       
+Controla el menú interactivo y las validaciones mediante try-catch.             
+MatrixManager.java             
+Genera la matriz de 1000 x 1000 con datos aleatorios positivos y negativos dentro de un rango acotado.                      
 
-Main.java
-Controla el menú interactivo y las validaciones mediante try-catch.
-MatrixManager.java
-Genera la matriz de 1000 x 1000 con datos aleatorios positivos y negativos dentro de un rango acotado.
+AlgoritmosOrdenamiento.java                                        
+Implementa Merge Sort, Shell Sort, Counting Sort y Radix Sort.                        
+Bubble Sort e Insertion Sort se omiten en arreglos grandes para evitar tiempos excesivos de ejecución.                   
 
-AlgoritmosOrdenamiento.java
-Implementa Merge Sort, Shell Sort, Counting Sort y Radix Sort.
-Bubble Sort e Insertion Sort se omiten en arreglos grandes para evitar tiempos excesivos de ejecución.
-
-AlgoritmosBusqueda.java
+AlgoritmosBusqueda.java             
 Contiene las búsquedas Secuencial, Binaria e Interpolación.
 Fibonacci.java
 Compara la solución recursiva exponencial frente a la optimizada mediante programación dinámica.
 
-**Entorno de Ejecución**
-Laptop: ASUS ROG Strix G16
-CPU: Intel Core i7-14650HX
-RAM: 16 GB DDR5                                                     
-Sistema Operativo: Windows 11                 
-IDE: Visual Studio Code                                                                                 
-Lenguaje: Java SE Development Kit (JDK 17)                                                                                                                  
+**Entorno de Ejecución**                                      
+Laptop: ASUS ROG Strix G16                          
+CPU: Intel Core i7-14650HX                        
+RAM: 16 GB DDR5                                                                       
+Sistema Operativo: Windows 11                                       
+IDE: Visual Studio Code                                                                                                     
+Lenguaje: Java SE Development Kit (JDK 17)                                                                                                                                
 
 **Uso**
 
