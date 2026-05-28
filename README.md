@@ -23,19 +23,19 @@ Compara la solución recursiva exponencial frente a la optimizada mediante progr
 **Entorno de Ejecución**
 Laptop: ASUS ROG Strix G16
 CPU: Intel Core i7-14650HX
-RAM: 16 GB DDR5
-Sistema Operativo: Windows 11
-IDE: Visual Studio Code
-Lenguaje: Java SE Development Kit (JDK 17)
+RAM: 16 GB DDR5                                                     
+Sistema Operativo: Windows 11                 
+IDE: Visual Studio Code                                                                                 
+Lenguaje: Java SE Development Kit (JDK 17)                                                                                                                  
 
 **Uso**
 
 Compilar y ejecutar Main.java.
 Opción 1 (Matriz Desordenada):
 Evalúa el tiempo de la búsqueda secuencial.
-Las búsquedas Binaria e Interpolación no estarán disponibles hasta ordenar los datos.
+Las búsquedas Binaria e Interpolación no estarán disponibles hasta ordenar los datos.                                 
 Opción 2 (Ordenar):
-Ordena el millón de elementos y muestra los tiempos de ejecución de los algoritmos eficientes.
+Ordena el millón de elementos y muestra los tiempos de ejecución de los algoritmos eficientes.                                   
 Opción 1 (Matriz Ordenada):
 Repite la búsqueda para comparar la diferencia de tiempo entre búsqueda secuencial y búsquedas avanzadas.
 Opción 3 (Fibonacci):
